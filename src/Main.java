@@ -76,7 +76,7 @@ public class Main {
             System.out.println("Invalid payment method. Please choose 'card' or 'cash'.");
         }
 
-        // Close scanner at the very end and then another thin
+        // Close scanner at the very end and then another
         input.close();
     }
 }
